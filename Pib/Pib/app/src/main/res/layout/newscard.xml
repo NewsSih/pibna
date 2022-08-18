@@ -1,0 +1,16 @@
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="120sp"
+        android:padding="7dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:background="@drawable/listbg"
+        android:elevation="20sp"
+        android:drawablePadding="12sp"
+        />
+
+
+
+
